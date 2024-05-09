@@ -7,6 +7,9 @@ payload:
    - DOMAIN-SUFFIX,api.themoviedb.org
    - DOMAIN-SUFFIX,image.tmdb.org
    - DOMAIN-SUFFIX,api.thetvdb.org
+   - DOMAIN-SUFFIX,themoviedb.org
+   - DOMAIN-SUFFIX,tmdb.org
+   - DOMAIN-SUFFIX,thetvdb.org
    
    - DOMAIN-SUFFIX,www.jav321.com
    - DOMAIN-SUFFIX,jav321.com
