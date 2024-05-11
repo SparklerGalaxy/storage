@@ -1,6 +1,9 @@
 # NAME: Pornhub
 payload:
-   - DOMAIN-KEYWORD,pronhub
+   - DOMAIN-SUFFIX,arzon.jp
+
+
+   - DOMAIN-SUFFIX,eclipse.org
 
    
    - DOMAIN-SUFFIX,jellyfin.org
