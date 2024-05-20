@@ -1,3 +1,6 @@
 # NAME: Special
 payload:
   - DOMAIN-KEYWORD,eyesome
+  
+  - DOMAIN-SUFFIX,t.mwm.moe
+  - DOMAIN-SUFFIX,blu.link
