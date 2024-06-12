@@ -6,7 +6,7 @@ payload:
    - DOMAIN-SUFFIX,eclipse.org
    - DOMAIN-SUFFIX,rclone.org
    - DOMAIN-SUFFIX,aspectron.com
-   
+   - DOMAIN-SUFFIX,unlocktool.net
    - DOMAIN-SUFFIX,jellyfin.org
    - DOMAIN-SUFFIX,api.themoviedb.org
    - DOMAIN-SUFFIX,image.tmdb.org
