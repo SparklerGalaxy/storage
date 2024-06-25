@@ -2,7 +2,7 @@
 payload:
    - DOMAIN-SUFFIX,arzon.jp
 
-
+   - DOMAIN-SUFFIX,python.org
    - DOMAIN-SUFFIX,eclipse.org
    - DOMAIN-SUFFIX,rclone.org
    - DOMAIN-SUFFIX,aspectron.com
