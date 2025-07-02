@@ -32,5 +32,5 @@ payload:
    - DOMAIN-SUFFIX,img.arzon.jp
    - DOMAIN-SUFFIX,arzon.jp
 
-
+   - DOMAIN-SUFFIX,cdn-apple.com
    - DOMAIN-KEYWORD,clm
