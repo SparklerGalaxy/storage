@@ -40,5 +40,6 @@ payload:
    - DOMAIN-SUFFIX,just.hosting
 
    - DOMAIN-SUFFIX,vultr.com
+   - DOMAIN-SUFFIX,colocrossing.com
       
    - DOMAIN-KEYWORD,clm
