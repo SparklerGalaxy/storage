@@ -36,5 +36,8 @@ payload:
    
    - DOMAIN-SUFFIX,alibabacloud.com
    - DOMAIN-SUFFIX,tencentcloud.com
+
+   - DOMAIN-SUFFIX,justhost.asia
+   - DOMAIN-SUFFIX,just.hosting
       
    - DOMAIN-KEYWORD,clm
