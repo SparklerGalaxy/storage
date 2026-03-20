@@ -1,7 +1,9 @@
 # NAME: Special
 payload:
-  - DOMAIN-KEYWORD,eyesome
-  
   - DOMAIN-SUFFIX,t.mwm.moe
   - DOMAIN-SUFFIX,blu.link
   - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,eyesome.net
+  - DOMAIN-SUFFIX,036999.xyz
+  - DOMAIN-SUFFIX,963999.xyz
+  - DOMAIN-SUFFIX,era.vip
