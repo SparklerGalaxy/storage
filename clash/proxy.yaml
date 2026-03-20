@@ -1,6 +1,5 @@
 # NAME: Pornhub
 payload:
-   - DOMAIN-SUFFIX,arzon.jp
 
    - DOMAIN-SUFFIX,render.com
    - DOMAIN-SUFFIX,python.org
@@ -39,5 +38,7 @@ payload:
 
    - DOMAIN-SUFFIX,justhost.asia
    - DOMAIN-SUFFIX,just.hosting
+
+   - DOMAIN-SUFFIX,vultr.com
       
    - DOMAIN-KEYWORD,clm
