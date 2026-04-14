@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,036999.xyz
   - DOMAIN-SUFFIX,963999.xyz
   - DOMAIN-SUFFIX,era.vip
+  - DOMAIN,static.cloudflareinsights.com
